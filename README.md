@@ -36,14 +36,13 @@ développer la visibilité de la marque et du service ou produit.
 | **Collecte de données** | Kobo, ODK collect, Tally & Google Forme |
 | **Analyse de données** | Excel avancé (TC, TCD et Macro), Power BI, Tableau,|
 | **Modélisation & Reporting** | Power Query, Dashboards interactifs, KPI & indicateurs métiers |
-| **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascript |
+| **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, Odoo, HTML/CSS, Javascript et PHP |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
-| **Communication & gestion de projet** | Trello, Airtable, Sheet, Notion|
+| **Communication & gestion de projet** | MS-Project, Outlook, Teams, Google Meet, Trello, Airtable, Sheet, Notion, Word, Excel, PowerPoint|
 ---
-*En resumé Mes Outils de travail informatique sont :*
-- WordPress, Odoo, HTML CSS, JS, PHP, Python, Flutter Dart
-- MS-Project, Power BI, KoboToolbox, IBM-SPSS, STATA
-- Word, Excel, PowerPoint, Outlook, Teams, Google Meet
+*Actuellement je me spéciliser en :*
+- Python pour l'analyse de données et la sécurité informatique,
+- Flutter Dart pour la conception d'application
 ---
 
 ## 📊 Projets phares
