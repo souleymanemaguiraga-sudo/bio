@@ -18,7 +18,7 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 
 | Domaine | Outils / Technologies |
 |----------|----------------------|
-| **Collecte de données** | Kobo, ODK, Tally & Google Forme |
+| **Collecte de données** | Kobo, ODK collect, Tally & Google Forme |
 | **Analyse de données** | Excel avancé (TC, TCD et Macro), Power BI, Tableau,|
 | **Modélisation & Reporting** | Power Query, Dashboards interactifs, KPI & indicateurs métiers |
 | **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascrip |
