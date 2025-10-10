@@ -44,23 +44,16 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=tonprofil&show_icons=true&theme=tokyonight)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tonprofil&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Collaborations & Contributions
 Je collabore régulièrement avec :
-- Des **ONG locales** pour la numérisation de leurs suivis et rapports.  
+- Des **Amicale des Diplôme en Science Economique** pour la numérisation de leurs suivis et rapports.  
 - Des **PME et startups africaines** pour développer leurs stratégies de communication digitale.  
-- Des **étudiants et freelances** pour des projets open source liés à la data et au design.
+- Des **étudiants et freelances** pour des projets open source liés à la data, web-mobile et au design.
 
 ---
 
 ## 🌐 Me retrouver
-📩 **Email :** contact@souleymane-magu.iraga.com  
+📩 **Email :** souleymanemaguiraga.mali@gmail.com
 💼 **LinkedIn :** [linkedin.com/in/souleymanemagu](https://linkedin.com/in/souleymanemagu)  
 🌍 **Portfolio :** [souleymanemaguiraga.github.io](https://souleymanemaguiraga.github.io)
 
