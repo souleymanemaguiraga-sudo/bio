@@ -41,12 +41,16 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 - Maquettes Figma + prototypage.  
 - Intégration sous WordPress.  
 - Résultats : +65 % de temps passé sur le site et meilleure conversion.  
-
 ---
-
+### lien de mes réalisations :
+- https://magui.online/
+- https://adse-mali.org/
+- https://bureauasta.com/
+---
 ## 🤝 Collaborations & Contributions
 Je collabore régulièrement avec :
-- Des **Amicale des Diplôme en Science Economique** pour la numérisation de leurs suivis et rapports.  
+- **Amicale des Diplôme en Science Economique** pour la numérisation de leurs suivis et rapports.  
+- **Bureau d'Etude et de Formation en Développement Durable** pour la numérisation de leurs suivis, rapports et leurs communication.
 - Des **PME et startups africaines** pour développer leurs stratégies de communication digitale.  
 - Des **étudiants et freelances** pour des projets open source liés à la data, web-mobile et au design.
 
@@ -54,9 +58,8 @@ Je collabore régulièrement avec :
 
 ## 🌐 Me retrouver
 📩 **Email :** souleymanemaguiraga.mali@gmail.com
-💼 **LinkedIn :** [linkedin.com/in/souleymanemagu](https://linkedin.com/in/souleymanemagu)  
-🌍 **Portfolio :** [souleymanemaguiraga.github.io](https://souleymanemaguiraga.github.io)
-
+💼 **LinkedIn :** https://www.linkedin.com/in/souleymane-maguiraga-76a980385/
+🌍 **Portfolio :** 
 ---
 
 ⭐ *“Les données racontent des histoires. Le design les rend inoubliables.”*
