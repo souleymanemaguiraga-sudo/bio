@@ -39,11 +39,11 @@ développer la visibilité de la marque et du service ou produit.
 | **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascript |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
 | **Communication & gestion de projet** | Trello, Airtable, Sheet, Notion|
-
-En resumé Mes Outils de travail informatique sont :
-WordPress, Odoo, HTML CSS, JS, PHP, Python, Flutter Dart
-MS-Project, Power BI, KoboToolbox, IBM-SPSS, STATA
-Word, Excel, PowerPoint, Outlook, Teams, Google Meet
+---
+*En resumé Mes Outils de travail informatique sont :*
+- WordPress, Odoo, HTML CSS, JS, PHP, Python, Flutter Dart
+- MS-Project, Power BI, KoboToolbox, IBM-SPSS, STATA
+- Word, Excel, PowerPoint, Outlook, Teams, Google Meet
 ---
 
 ## 📊 Projets phares
@@ -69,12 +69,12 @@ Word, Excel, PowerPoint, Outlook, Teams, Google Meet
 - https://bureauasta.com/
 ---
 ### Maitrise des Langues
-|Anglais | Assez-Bien
-|Français | Très-Bien
-|Soninké (Sarakolé) | Très-Bien
-|Bambara | Très-Bien
-|Peulh | Passable
-|Dioula & Malinké | Passable
+- |Anglais | Assez-Bien
+- |Français | Très-Bien
+- |Soninké (Sarakolé) | Très-Bien
+- |Bambara | Très-Bien
+- |Peulh | Passable
+- |Dioula & Malinké | Passable
 ---
 ## 🤝 Collaborations & Contributions
 Je collabore régulièrement avec :
