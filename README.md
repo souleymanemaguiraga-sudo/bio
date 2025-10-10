@@ -18,11 +18,11 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 
 | Domaine | Outils / Technologies |
 |----------|----------------------|
-| **Analyse de données** | Excel avancé, Power BI, Tableau, Python (Pandas, Matplotlib, Seaborn), SQL |
-| **Modélisation & Reporting** | Power Query, DAX, Dashboards interactifs, KPI & indicateurs métiers |
-| **Conception digitale** | Figma, Adobe XD, Canva, UI/UX Design, WordPress, HTML/CSS |
-| **Automatisation & IA intégrée** | ChatGPT API, Power Automate, Streamlit, IA générative |
-| **Communication & gestion de projet** | Trello, Notion, Miro, Méthode Agile |
+| **Analyse de données** | Excel avancé (TC, TCD et Macro), Power BI, Tableau,|
+| **Modélisation & Reporting** | Power Query, Dashboards interactifs, KPI & indicateurs métiers |
+| **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascrip |
+| **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
+| **Communication & gestion de projet** | Trello, Airtabla, Sheet, Notion|
 
 ---
 
