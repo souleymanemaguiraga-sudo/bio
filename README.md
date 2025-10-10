@@ -23,34 +23,24 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 | **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascrip |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
 | **Communication & gestion de projet** | Trello, Airtabla, Sheet, Notion|
-
 ---
 
 ## 📊 Projets phares
-
 ### 🧩 1. **Dashboard Power BI – ONG Santé Rurale**
 > **Objectif :** Suivre en temps réel les indicateurs de santé et les performances des centres communautaires.  
 - Nettoyage et modélisation des données sous Power Query.  
 - Visualisations interactives avec filtres régionaux.  
 - Résultats : gain de 40 % de temps sur les rapports mensuels.  
-📁 [`Voir le projet`](https://github.com/tonprofil/powerbi-ong-sante)
-
 ---
-
-### 🌍 2. **Système de suivi de projets ONG (Python + Excel)**
+### 🌍 2. **Système de suivi de projets ONG **
 > **Objectif :** Automatiser la collecte et le reporting des activités de terrain.  
-- Scripts Python (pandas, openpyxl) pour consolidation automatique.  
 - Export Excel avec graphiques automatiques.  
-📁 [`Voir le code`](https://github.com/tonprofil/suivi-projets-ong)
-
 ---
-
 ### 💡 3. **Conception digitale – Refonte du site “Doctors Fashion Textile”**
 > **Objectif :** Améliorer l’expérience utilisateur et l’identité visuelle.  
 - Maquettes Figma + prototypage.  
 - Intégration sous WordPress.  
 - Résultats : +65 % de temps passé sur le site et meilleure conversion.  
-📁 [`Voir le prototype`](https://github.com/tonprofil/design-doctorsfashion)
 
 ---
 
