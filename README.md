@@ -18,11 +18,12 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 
 | Domaine | Outils / Technologies |
 |----------|----------------------|
+| **Collecte de données** | Kobo, ODK, Tally & Google Forme |
 | **Analyse de données** | Excel avancé (TC, TCD et Macro), Power BI, Tableau,|
 | **Modélisation & Reporting** | Power Query, Dashboards interactifs, KPI & indicateurs métiers |
 | **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascrip |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
-| **Communication & gestion de projet** | Trello, Airtabla, Sheet, Notion|
+| **Communication & gestion de projet** | Trello, Airtable, Sheet, Notion|
 ---
 
 ## 📊 Projets phares
@@ -36,7 +37,7 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 > **Objectif :** Automatiser la collecte et le reporting des activités de terrain.  
 - Export Excel avec graphiques automatiques.  
 ---
-### 💡 3. **Conception digitale – Refonte du site “Doctors Fashion Textile”**
+### 💡 3. **Conception digitale **
 > **Objectif :** Améliorer l’expérience utilisateur et l’identité visuelle.  
 - Maquettes Figma + prototypage.  
 - Intégration sous WordPress.  
