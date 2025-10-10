@@ -6,6 +6,7 @@
 ---
 ## Ma Capacité & Traditions
 ✓ Gérer plusieurs tâches simultanément de manière souple et méthodique dans les délais impartis.
+
 ✓ Gérer les situations d'urgence avec calme et sang-froid.
 
 ## 🚀 À propos de moi
