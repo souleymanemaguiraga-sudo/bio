@@ -68,6 +68,14 @@ Word, Excel, PowerPoint, Outlook, Teams, Google Meet
 - https://adse-mali.org/
 - https://bureauasta.com/
 ---
+### Maitrise des Langues
+|Anglais | Assez-Bien
+|Français | Très-Bien
+|Soninké (Sarakolé) | Très-Bien
+|Bambara | Très-Bien
+|Peulh | Passable
+|Dioula & Malinké | Passable
+---
 ## 🤝 Collaborations & Contributions
 Je collabore régulièrement avec :
 - **Amicale des Diplôme en Science Economique** pour la numérisation de leurs suivis et rapports.  
