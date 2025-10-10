@@ -1,8 +1,12 @@
 # 👋 Bonjour, je suis Souleymane MAGUIRAGA  
 ### 🎯 Analyste de données & Spécialiste en conception digitale  
 > J’aide les entreprises et les ONG à analyser leurs données et à concevoir des solutions innovantes pour leurs services et opérations.
+> Je possède un moyen de déplacement (Moto DT) et d’un Permis de conduire catégorie B
 
 ---
+## Ma Capacité & Traditions
+✓ Gérer plusieurs tâches simultanément de manière souple et méthodique dans les délais impartis.
+✓ Gérer les situations d'urgence avec calme et sang-froid.
 
 ## 🚀 À propos de moi
 
@@ -35,6 +39,11 @@ développer la visibilité de la marque et du service ou produit.
 | **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, HTML/CSS et Javascript |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
 | **Communication & gestion de projet** | Trello, Airtable, Sheet, Notion|
+
+En resumé Mes Outils de travail informatique sont :
+WordPress, Odoo, HTML CSS, JS, PHP, Python, Flutter Dart
+MS-Project, Power BI, KoboToolbox, IBM-SPSS, STATA
+Word, Excel, PowerPoint, Outlook, Teams, Google Meet
 ---
 
 ## 📊 Projets phares
