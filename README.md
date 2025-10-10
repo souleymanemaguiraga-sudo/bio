@@ -14,7 +14,18 @@ Je crois qu’une **bonne donnée** doit être **belle à voir** et **utile à c
 
 ---
 
-## 🧠 Compétences clés
+## 🧠 Mes Sept (7) Grandes Compétences et Expériences
+1. Développer des outils et solutions Digital ( site, application, logiciel et base de
+données ) visant à améliorer la productivité de l'entreprise, ONG et ou Ambassade.
+2. Construire des systèmes d'information et des gestions personnalisés et centralisées
+pour un accès rapide aux informations.
+3. Collecte, Gestion et Analyse des Données, puis effectuer archivage numérique.
+4. Elaborer et rédiger les contenus du plan marketing, les argumentaires commerciaux et
+les supports de communication.
+5. Définir le planning de publication puis Animer les réseaux sociaux dans le but de
+développer la visibilité de la marque et du service ou produit.
+6. Conception des plans et façades à l’usage d’habitation et autre.
+7. Former, suivre et accompagner les stagiaires et étudiants en Informatique.
 
 | Domaine | Outils / Technologies |
 |----------|----------------------|
