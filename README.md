@@ -36,7 +36,7 @@ développer la visibilité de la marque et du service ou produit.
 | **Collecte de données** | Kobo, ODK collect, Tally & Google Forme |
 | **Analyse de données** | Excel avancé (TC, TCD et Macro), Power BI, Tableau,|
 | **Modélisation & Reporting** | Power Query, Dashboards interactifs, KPI & indicateurs métiers |
-| **Conception digitale** | Figma, Photoshop, Canva, UI/UX Design, WordPress, Odoo, HTML/CSS, Javascript et PHP |
+| **Conception digitale (Site web, Application, Logiciel et Système)** | Figma, Photoshop, Canva, UI/UX Design, WordPress, Odoo, HTML/CSS, Javascript et PHP |
 | **Automatisation & IA intégrée** | ChatGPT, Gamma.App, IA générative |
 | **Communication & gestion de projet** | MS-Project, Outlook, Teams, Google Meet, Trello, Airtable, Sheet, Notion, Word, Excel, PowerPoint|
 ---
