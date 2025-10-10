@@ -68,12 +68,11 @@ développer la visibilité de la marque et du service ou produit.
 - https://bureauasta.com/
 ---
 ### Maitrise des Langues
-- |Anglais | Assez-Bien
-- |Français | Très-Bien
-- |Soninké (Sarakolé) | Très-Bien
-- |Bambara | Très-Bien
-- |Peulh | Passable
-- |Dioula & Malinké | Passable
+- Anglais | Niveau communication basique
+- Français | Très-Bien
+- Soninké (Sarakolé) | Très-Bien
+- Bambara | Très-Bien
+- Peulh, Dioula & Malinké | Passable
 ---
 ## 🤝 Collaborations & Contributions
 Je collabore régulièrement avec :
@@ -84,7 +83,8 @@ Je collabore régulièrement avec :
 
 ---
 
-## 🌐 Me retrouver
+## 🌐 Contactez-moi sur :
+- Tél: 70 34 13 20 / 60 74 05 36
 - 📩 **Email :** souleymanemaguiraga.mali@gmail.com
 
 - 💼 **LinkedIn :** https://www.linkedin.com/in/souleymane-maguiraga-76a980385/
