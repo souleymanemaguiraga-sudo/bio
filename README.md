@@ -59,6 +59,7 @@ Je collabore régulièrement avec :
 
 ## 🌐 Me retrouver
 📩 **Email :** souleymanemaguiraga.mali@gmail.com
+
 💼 **LinkedIn :** https://www.linkedin.com/in/souleymane-maguiraga-76a980385/
 🌍 **Portfolio :** 
 ---
