@@ -1,12 +1,10 @@
 # 👋 Bonjour, je suis Souleymane MAGUIRAGA  
 ### 🎯 Analyste de données & Spécialiste en conception digitale  
 > J’aide les entreprises et les ONG à analyser leurs données et à concevoir des solutions innovantes pour leurs services et opérations.
-> Je possède un moyen de déplacement (Moto DT) et d’un Permis de conduire catégorie B
 
 ---
 ## Ma Capacité & Traditions
 ✓ Gérer plusieurs tâches simultanément de manière souple et méthodique dans les délais impartis.
-
 ✓ Gérer les situations d'urgence avec calme et sang-froid.
 
 ## 🚀 À propos de moi
